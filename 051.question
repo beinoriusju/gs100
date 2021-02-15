@@ -1,6 +1,6 @@
 By what means we differentiate "yesterdays apple" from "todays apple" in General Semantics?
 
-- object index
-- uniqueness index
-- context index
-+ date index
+- index
+- hyphenate
+- chain index
++ date
