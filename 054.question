@@ -1,0 +1,6 @@
+In General Semantics we try to differentiate between inferences and facts. Which of the following is guaranteed not to be a fact?
+
+- Train is blue.
++ A train will be an hour late.
+- Train is late.
+- Trains are safer than airplanes.

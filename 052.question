@@ -1,0 +1,6 @@
+What is the correct order of happenings (science 2020)?
+
+- inference, description, label, object
++ event, object, label, description, inference
+- inference, description, label, object, event
+- object, label, description, label, object
